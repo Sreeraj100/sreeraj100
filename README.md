@@ -1,4 +1,3 @@
-
 [![Profile Views](https://komarev.com/ghpvc/?username=sreeraj100&label=Profile%20Views&color=00f7ff&style=flat-square)](https://github.com/Sreeraj100)
 <div align="center">
 
@@ -9,12 +8,14 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Building+Digital+Experiences;MERN+Stack+Enthusiast;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 
-
 </div>
-<img align="right" width="400" height="260" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding Animation" />
+
+---
+
+<div>
+<img align="right" width="400" height="285" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding Animation" />
 
 ```typescript
-
 const sreeraj = {
     location: "India,Kerala",
     role: "MERN Stack Developer",
@@ -29,6 +30,8 @@ const sreeraj = {
     
 };
 ```
+</div>
+
 ---
 
 <h3 align="left">Languages and Tools:</h3>
@@ -88,10 +91,11 @@ const sreeraj = {
   <img src="https://leetcard.jacoblin.cool/Sreeraj179?theme=dark" alt="LeetCode Stats" />
 </p>
 
+---
 
 [![Sreeraj.R's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sreeraj100&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+---
 
 <div align="center">
 
