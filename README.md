@@ -1,3 +1,5 @@
+
+[![Profile Views](https://komarev.com/ghpvc/?username=sreeraj100&label=Profile%20Views&color=00f7ff&style=flat-square)](https://github.com/Sreeraj100)
 <div align="center">
 
 # 👋 Welcome to My Digital Workshop
@@ -7,17 +9,12 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Building+Digital+Experiences;MERN+Stack+Enthusiast;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=sreeraj100&label=Profile%20Views&color=00f7ff&style=flat-square)](https://github.com/Sreeraj100)
 
 </div>
-
----
-
-## 🚀 About Me
-
 <img align="right" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding Animation" />
 
 ```typescript
+
 const sreeraj = {
     location: "India,Kerala",
     role: "MERN Stack Developer",
@@ -32,81 +29,28 @@ const sreeraj = {
     
 };
 ```
-
-<br clear="right"/>
-
-## 💡 What I Do
-
-🔭 **Building** - Full-stack web applications with modern technologies  
-🌱 **Learning** - Always exploring new tech and best practices  
-🎯 **Focus** - Clean code, scalable architecture, great UX  
-
 ---
 
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### Languages
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/c.png" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="Node.js" />
+  <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/express.png" height="40" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/postman.png" height="40" alt="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="Aws" />
+  <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/github.png" height="40" alt="github" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
+  <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/typescript.png" height="40" alt="Typescript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
 </p>
-
-### Frameworks & Libraries
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" alt="Express.js" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap" />
-</p>
-
-### Databases
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" />
-</p>
-
-### Tools & Platforms
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="50" alt="AWS" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50" height="50" alt="Nginx" />
-<img src="https://skillicons.dev/icons?i=postman" width="50" height="50" alt="Postman" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" alt="Figma" />
-</p>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sreeraj100&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues&border_radius=10"/>
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreeraj100&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/> -->
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreeraj100&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
-</div>
-
-
-
----
-
-## 🏆 LeetCode Journey
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Sreeraj179?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-[![Sreeraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sreeraj100&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true&radius=10)](https://github.com/sreeraj100)
 
 ---
 
@@ -130,6 +74,24 @@ const sreeraj = {
 </div>
 
 ---
+
+<h3 align="center">GitHub Stats:</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sreeraj100&show_icons=true&theme=radical&&hide=issues" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sreeraj100&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="170" alt="Top Languages" />
+</div>
+
+---
+
+<h3 align="center">LeetCode Journey:</h3>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Sreeraj179?theme=dark" alt="LeetCode Stats" />
+</p>
+
+
+[![Sreeraj.R's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sreeraj100&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 <div align="center">
 
