@@ -13,7 +13,7 @@
 ---
 
 <div>
-<img align="right" width="400" height="285" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
+<img align="right" width="400" height="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
 
 ```typescript
 const sreeraj = {
