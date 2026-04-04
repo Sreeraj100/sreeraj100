@@ -89,7 +89,7 @@ const sreeraj = {
 
 <h3 align="center">LeetCode Journey:</h3>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Sreeraj179?theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Sreeraj_R?theme=dark" alt="LeetCode Stats" />
 </p>
 
 ---
